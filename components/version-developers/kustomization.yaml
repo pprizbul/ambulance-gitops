@@ -3,8 +3,7 @@ kind: Component
 images:
 - name: pprizbul/ambulance-wl-webapi
   newName: pprizbul/ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
-  
+  newTag: main.20250408.1337 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
 - name: pprizbul/ambulance-ufe
   newName: pprizbul/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
   newTag: master.20250318.1429 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
