@@ -3,4 +3,7 @@ kind: Component
 images:
 - name: pprizbul/ambulance-ufe
   newName: pprizbul/ambulance-ufe
-  newTag: 1.0.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.1.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+- name: pprizbul/ambulance-wl-webapi
+  newName: pprizbul/ambulance-wl-webapi
+  newTag: 1.1.0
