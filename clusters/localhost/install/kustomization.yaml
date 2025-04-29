@@ -11,6 +11,7 @@ resources:
 - ../../../apps/pp-ambulance-ufe
 - ../../../apps/pp-ambulance-webapi
 - ../../../apps/mongo-express
+- ../../../apps/http-echo
 
 patches:
 - path: patches/ambulance-webapi.service.yaml
